@@ -1,5 +1,8 @@
 package model;
 
+/**
+ * Enum que representa las posiciones posibles de un jugador en un equipo de hockey.
+ */
 public enum Posicion {
-    PORTERO, DEFENSA, ALA, CENTRO;
+    DEFENSA, CENTRO, ALA, PORTERO
 }
